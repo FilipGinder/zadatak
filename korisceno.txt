@@ -1,0 +1,6 @@
+npx create-react-app zadatak --template typescript
+npm install --save-dev @types/react-router-dom
+npm install react-router-dom@latest
+npm install @reduxjs/toolkit react-redux
+npm install --save-dev @types/react-redux
+
